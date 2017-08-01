@@ -4,7 +4,7 @@
 
 <br> First of all, read in the raw data:
 
-    dataset <- read.csv("C:/Users/Martin/Documents/Coursera/Data_Science_course/Part_5/week_2_assignment/repdata_data_activity/activity.csv")
+    dataset <- read.csv("./repdata_data_activity/activity.csv")
 
 <br> Then check some basic information about the dataset:
 
